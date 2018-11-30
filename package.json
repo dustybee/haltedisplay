@@ -1,0 +1,16 @@
+{
+  "name": "haltedisplay",
+  "version": "1.0.0",
+  "description": "haltedisplay client for bus stop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damian Vera",
+  "license": "ISC",
+  "dependencies": {
+    "cd-rpi-rgb-led-matrix": "^0.3.2",
+    "ip": "^1.1.5",
+    "socket.io-client": "^2.2.0"
+  }
+}
