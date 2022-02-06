@@ -1,10 +1,9 @@
-# haltedisplay
-a real life recreation of the bus stop displays
+# Project Haltedisplay
 
-#### Display is too small for the destination name.
-I have two other modules comming. Will update when they arrive
-![small display](https://github.com/dustybee/haltedisplay/blob/master/images/display.png "small display")
+This is a recreation of the Dutch bus stop displays. This was made just for fun. 
 
-## Updates
-soooo, 5 weeks after receiving the two other modules i finally got them to work!
-![big display](https://github.com/dustybee/haltedisplay/blob/master/images/display-big.png "big display")
+###### A single module is too small to include the destination name.
+![small display](https://github.com/dustybee/haltedisplay/blob/master/images/display.png "A single LED module")
+
+###### Three modules
+![big display](https://github.com/dustybee/haltedisplay/blob/master/images/display-big.png "Three LED modules")
